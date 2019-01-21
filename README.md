@@ -2,5 +2,6 @@
 非开源 菠菜源码 PHP WEB QQ:941752049。
 
 ### 关于APP 
-
-![HomePage](https://raw.githubusercontent.com/gottenGuo/ResourceFile/master/HomePage.PNG)    ![NightHomePage](https://raw.githubusercontent.com/gottenGuo/ResourceFile/master/NightHomePage.PNG)    ![SideslipPage](https://raw.githubusercontent.com/gottenGuo/ResourceFile/master/SideslipPage.PNG)    ![AboutZhiHuDailyPage](https://raw.githubusercontent.com/gottenGuo/ResourceFile/master/AboutZhiHuDailyPage.PNG)
+<figure class="third">
+    <img src="https://raw.githubusercontent.com/gottenguo/showHand/master/home.png" width="150" > <img src="https://raw.githubusercontent.com/gottenguo/showHand/master/wallet.png" width="150" > <img src="https://raw.githubusercontent.com/gottenguo/showHand/master/service.png" width="150" > <img src="https://raw.githubusercontent.com/gottenguo/showHand/master/me.png" width="150" >
+</figure>
