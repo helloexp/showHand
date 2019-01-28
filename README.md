@@ -1,5 +1,5 @@
 ### 前言
-非开源 菠菜源码 PHP WEB QQ:941752049。
+非开源 菠菜 博彩 源码 PHP WEB QQ:941752049。
 
 ### 关于APP 
 <div class="center">
